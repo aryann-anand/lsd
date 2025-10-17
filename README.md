@@ -4,6 +4,14 @@
 
 A vibrant, high-contrast dark theme for Visual Studio Code designed to enhance your coding experience with psychedelic neon colors and striking aesthetics.
 
+## 🎨 LSD Preview
+
+Get a quick glimpse of how the LSD theme transforms your editor:
+
+![Demo 1](./assets/demo1.png)
+![Demo 2](./assets/demo3.png)
+![Demo 3](./assets/demo2.png)
+
 ## ✨ Features
 
 - **Pitch Black Background** - Minimalist aesthetic with a true black (#000000) editor background
@@ -23,18 +31,6 @@ A vibrant, high-contrast dark theme for Visual Studio Code designed to enhance y
   - Diff editors
   - And much more
 
-## 🎨 Color Palette
-
-The theme uses a carefully crafted psychedelic color scheme:
-
-| Element | Color | Hex |
-|---------|-------|-----|
-| Primary Magenta | 🟣 | `#ffa5e9` |
-| Cyan Glow | 🟦 | `#40fdda` |
-| Electric Green | 🟢 | `#52ff89` |
-| Neon Orange | 🟠 | `#ffb85c` |
-| Bright Red | 🔴 | `#ff3333` |
-| Purple Accent | 🟣 | `#af8bff` |
 
 ## 🚀 Installation
 
@@ -42,15 +38,33 @@ The theme uses a carefully crafted psychedelic color scheme:
 
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for "LSD"
+3. Search for "LSD" or "psychedelic-lsd-theme"
 4. Click Install
+
+### Via Command Line
+
+Run the following command in your terminal:
+
+```bash
+code --install-extension aryan0000.psychedelic-lsd-theme
+```
+
+Or use the quick install command in VS Code:
+
+```
+ext install aryan0000.psychedelic-lsd-theme
+```
 
 
 ## 💿 Usage
 
+### Activate the Theme
+
 1. Open VS Code Command Palette (Ctrl+Shift+P / Cmd+Shift+P)
 2. Type "Color Theme" and select "Preferences: Color Theme"
 3. Choose "LSD" from the list
+
+The theme will be instantly applied to your editor!
 
 ## 🔧 Customization
 
@@ -79,18 +93,6 @@ A developer passionate about creating visually stunning and functional tools for
 - 🐙 [GitHub](https://github.com/aryann-anand/)
 - 🌐 [Repository](https://github.com/aryann-anand/lsd)
 
-## 🤝 Contributing
-
-Found a bug or have a suggestion? Feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/aryann-anand/lsd).
-
-## ❤️ Support
-
-If you love this theme, please consider:
-
-- ⭐ Starring the repository on GitHub
-- 📝 Leaving a review on the VS Code Marketplace
-- 🔄 Sharing it with fellow developers
-- 💬 Providing feedback and suggestions
 
 ---
 
