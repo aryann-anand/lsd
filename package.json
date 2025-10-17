@@ -1,0 +1,59 @@
+{
+  "name": "psychedelic-lsd-theme",
+  "displayName": "LSD",
+  "description": "A lucid trip through the void for people who code in color and dream in contrast",
+  "version": "1.0.0",
+  "publisher": "aryan0000",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LSD",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/lsd-colors.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",  
+    "url": "https://github.com/aryann-anand/lsd"
+  },
+  "keywords": [
+    "lsd",
+    "psychedelic",
+    "neon",
+    "dark",
+    "pitch black",
+    "minimal",
+    "contrast",
+    "vibrant",
+    "glow",
+    "cyberpunk",
+    "trippy",
+    "acid",
+    "colorful",
+    "aesthetic",
+    "lucid",
+    "synthetic",
+    "vaporwave",
+    "hacker",
+    "noir",
+    "high contrast"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Aryan Anand",
+    "url": "https://github.com/aryann-anand"
+  },
+  "homepage": "https://github.com/aryann-anand/lsd",
+  "bugs": {
+    "url": "https://github.com/aryann-anand/lsd/issues"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  }
+}
