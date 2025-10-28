@@ -736,7 +736,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#aaefff"
+				"foreground": "#e3d494"
 			}
 		},
 		{
@@ -1865,7 +1865,7 @@
 		"sideBarSectionHeader.foreground": "#32feaf",
 		"sideBarSectionHeader.border": "#00000000",
 		"sideBarTitle.foreground": "#dddddd",
-		"sideBar.border": "#101010",
+		"sideBar.border": "#2a2a2a",
 		"list.inactiveSelectionBackground": "#141414",
 		"list.inactiveSelectionForeground": "#ff90e4",
 		"list.hoverBackground": "#101010",
@@ -1967,7 +1967,7 @@
 		"editorInfo.border": "#4490BF00",
 		"editorGutter.background": "#000000",
 		"editorGutter.modifiedBackground": "#6cbaff",
-		"editorGutter.addedBackground": "#000000",
+		"editorGutter.addedBackground": "#52ff89",
 		"editorGutter.deletedBackground": "#ff8287",
 		"editorGutter.foldingControlForeground": "#eeeeee",
 		"editorCodeLens.foreground": "#9ea19c9b",
@@ -1978,7 +1978,7 @@
 		"diffEditor.removedTextBorder": "#101010",
 		"diffEditor.border": "#00000000",
 		"panel.background": "#000000",
-		"panel.border": "#121212",
+		"panel.border": "#2a2a2a",
 		"panelTitle.activeBorder": "#8bceff",
 		"panelTitle.activeForeground": "#8bceff",
 		"panelTitle.inactiveForeground": "#666666",
@@ -2015,7 +2015,7 @@
 		"tab.border": "#25252600",
 		"tab.activeBackground": "#131313",
 		"tab.activeBorder": "#000000",
-		"tab.activeBorderTop": "#0ae1ff",
+		"tab.activeBorderTop": "#52ff89",
 		"tab.inactiveBackground": "#000000",
 		"tab.inactiveForeground": "#999999",
 		"tab.hoverBackground": "#111111",
@@ -2091,7 +2091,7 @@
 		"dropdown.background": "#000000",
 		"dropdown.foreground": "#dddddd",
 		"dropdown.border": "#ff000000",
-		"minimapGutter.addedBackground": "#000000",
+		"minimapGutter.addedBackground": "#52ff89",
 		"minimapGutter.modifiedBackground": "#6cbaff",
 		"minimapGutter.deletedBackground": "#ff8287",
 		"minimap.findMatchHighlight": "#0040ff52",
