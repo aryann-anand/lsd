@@ -1,8 +1,7 @@
 # 🌀 LSD Theme for VS Code
 
-> A lucid trip through the void for people who code in color and dream in contrast
+> A high contrast, vibrant and lucid theme for VSCode.
 
-A high contrast, vibrant and lucid theme for VSCode.
 
 v1.1.0
 
