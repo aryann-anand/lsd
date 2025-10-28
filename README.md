@@ -2,11 +2,13 @@
 
 > A lucid trip through the void for people who code in color and dream in contrast
 
-A vibrant, high-contrast dark theme for Visual Studio Code designed to enhance your coding experience with psychedelic neon colors and striking aesthetics.
+A high contrast, vibrant and lucid theme for VSCode.
+
+v1.1.0
 
 ## 🎨 LSD Preview
 
-Get a quick glimpse of how the LSD theme transforms your editor:
+Quick glimpse of how the LSD theme transforms your editor:
 
 ![Demo 1](./assets/demo1.png)
 ![Demo 2](./assets/demo3.png)
@@ -66,18 +68,6 @@ ext install aryan0000.psychedelic-lsd-theme
 
 The theme will be instantly applied to your editor!
 
-## 🔧 Customization
-
-To customize the theme, edit `themes/lsd-colors.json` to adjust colors, backgrounds, and other UI elements to your preference.
-
-### Supported Platforms
-
-- ✅ Visual Studio Code 1.60.0 or later
-- ✅ All operating systems (Windows, macOS, Linux)
-
-## 🏷️ Keywords
-
-`lsd` • `psychedelic` • `neon` • `dark` • `pitch black` • `minimal` • `contrast` • `vibrant` • `glow` • `cyberpunk` • `trippy` • `acid` • `colorful` • `aesthetic` • `lucid` • `synthetic` • `vaporwave` • `hacker` • `noir` • `high contrast`
 
 ## 📜 License
 
@@ -95,5 +85,3 @@ A developer passionate about creating visually stunning and functional tools for
 
 
 ---
-
-**Enjoy your psychedelic coding journey! 🚀**
